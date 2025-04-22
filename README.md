@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+there%2C+I'm+Jatin+Jaglan;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=43&pause=500&color=3B82F6&center=true&vCenter=true&random=false&width=750&height=80&lines=Hello+there%2C+I'm+Jatin+Jaglan;Full+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 <!-- Elegant separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" >
 </div>
 
 <p align="center">
