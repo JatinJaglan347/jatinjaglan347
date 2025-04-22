@@ -15,10 +15,6 @@
 
 ## ✦ About Me
 
-<div align="center">
-  <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-</div>
-
 ```javascript
 const jatin = {
   education: "B.E. Computer Science @ Chitkara University (2022-2026)",
@@ -28,6 +24,10 @@ const jatin = {
   achievements: "Multiple Hackathon Wins & Dean's List Recognition"
 };
 ```
+<div align="center">
+  <img align="" alt="Coding" width="" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+</div >
+
 
 <!-- Gradient Separator -->
 <div align="center">
